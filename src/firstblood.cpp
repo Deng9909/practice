@@ -37,9 +37,9 @@ void startUI()
     cout << "please determine the difficulty: enter 0 means easy and 1 means hard" << endl;
     cin >> degreeOfDifficulty;
     if(degreeOfDifficulty)
-        cout << "-->difficult model!?" << endl;
+        cout << "-->difficult model!?." << endl;
     else
-        cout << "-->easy model!?" << endl;
+        cout << "-->easy model!?." << endl;
 }
 
 void startPractice()
